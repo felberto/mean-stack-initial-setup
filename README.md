@@ -1,2 +1,31 @@
-# mean-stack-initial-setup
-code for the tutorial on toubidev.ch
+# Mean stack - Initial setup
+
+Initial setup code for the blog tutorial on toubidev.ch
+
+## Getting started
+
+### Prerequisites
+
+To run this project MongoDB and Node.js must be installed
+
+[MongoDB](https://docs.mongodb.com/manual/installation/) \
+[Node.js](https://nodejs.org/en/download/)
+
+### Install the dependecies
+
+Before the project can be started, the dependencies must be installed:
+```
+$ npm install
+```
+### Start project
+
+```
+$ npm start
+```
+
+## Built with
+
+[MongoDB](https://www.mongodb.com/) - database \
+[Express](https://expressjs.com/) - web framework for Node.js \
+[Angular](https://angular.io/) - front-end framework \
+[Node.js](https://nodejs.org) - JavaScript runtime
